@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs com FastAPI",
+      "description": "Construindo APIs REST com FastAPI: rotas, validação e CRUD em memória.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
